@@ -65,6 +65,57 @@ This approach allowed me to focus on **understanding architecture design, traini
 
 ---
 
+### 🎓 Key Competencies Gained
+
+**1. Deep Learning & Neural Network Design**
+
+* Built and trained neural networks using **PyTorch** for both binary and multiclass classification tasks.
+* Understood essential concepts like **activation functions, loss functions, optimizers, and backpropagation**.
+
+**2. Convolutional Neural Networks (CNNs)**
+
+* Designed and fine-tuned CNN architectures optimized for **image recognition tasks**.
+* Applied techniques like **convolution, pooling, normalization, and regularization** to improve model accuracy and generalization.
+
+**3. Image Data Preprocessing & Augmentation**
+
+* Used **PIL** and **torchvision transforms** to convert, resize, normalize, and prepare images for training.
+* Gained practical experience in managing large-scale image datasets.
+
+**4. Model Optimization & Transfer Learning**
+
+* Leveraged a **pre-trained model** to reduce computation time while maintaining strong performance.
+* Practiced **fine-tuning and parameter adjustment** for specific dataset requirements.
+
+**5. End-to-End Machine Learning Workflow**
+
+* Developed a full **ML pipeline** — from raw data loading and preprocessing to model training, evaluation, and prediction export.
+* Produced outputs ready for **real-world competition submission** (DrivenData format).
+
+**6. Practical Data Science Skills**
+
+* Strengthened understanding of **tensor operations, matrix manipulation**, and **automatic differentiation**.
+* Improved debugging, experimentation, and model interpretation skills in **Jupyter Notebooks**.
+
+**7. Computational Efficiency & Problem Solving**
+
+* Devised practical solutions to **long training times** by simulating model training using serialized weights.
+* Balanced accuracy with resource constraints — a key skill for real-world ML deployment.
+
+---
+
+### 🚀 Highly Valued by Employers
+
+These competencies align directly with **skills sought in AI, data science, and machine learning roles**, especially:
+
+* **Model development & optimization (PyTorch / TensorFlow)**
+* **Image processing and computer vision**
+* **Data-driven problem solving**
+* **Efficient experimentation and workflow automation**
+* **Practical understanding of AI model deployment**
+
+---
+
 ## 🧰 Tools & Technologies
 
 | Category          | Tools                |
